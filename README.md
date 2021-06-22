@@ -1,6 +1,6 @@
 ![react-galaxia](https://user-images.githubusercontent.com/60527338/123009222-288c9880-d371-11eb-8249-d2633b1b07de.png)
-# React-js
-Una biblioteca de JavaScript para crear interfaces de usuario 🚀
+# React-js 
+Hola soy Ivan Gonzalez :) Una biblioteca de JavaScript para crear interfaces de usuario 🚀 (pero, son sólo para ti 🤫).
 
 # ¿Qué es React.js? 
 **React** cumple su función como biblioteca ya que para utilizar su código se debe importar. También es un *Framework* aunque las convenciones de cómo debe ser organizado todo no son estrictas.

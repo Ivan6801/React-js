@@ -23,3 +23,23 @@ Con React también se tiene la ventaja de que será escrito una sola vez y podr�
 Siempre que escribas **JSX** es requisito importar React.
 ![ReactDOM render](https://user-images.githubusercontent.com/60527338/123010298-30e5d300-d373-11eb-9527-534005b7c595.jpg)
 
+# JSX
+JSX es una extensión de JavaScript creada por Facebook para el uso con la biblioteca React. Sirve de preprocesador (como Sass o Stylus a CSS) y transforma el código generado con React a JavaScript.
+
+JSX tiene su alternativa que es **React.createElement** pero es preferible JSX porque es mucho más legible y expresivo. Ambos tienen el mismo poder y la misma capacidad.
+![React createElement](https://user-images.githubusercontent.com/60527338/123017175-e9feda00-d380-11eb-9211-76c69c867a81.jpg)
+
+**React.createElement** recibe 3 argumentos:
+
+* El tipo de elemento que estamos creando
+* sus atributos o props
+* y el children que es el contenido.
+Ejemplo:
+
+```bash
+React.createElement(‘a’, { href: ‘https://platzi.com’ }, ‘Ir a Platzi’);
+```
+
+En JSX se utilizan las llaves para introducir variables o expresiones de Javascript. Lo que sea que esté adentro se va a evaluar y su resultado se mostrará en pantalla.
+
+Las expresiones pueden ser llamadas a otras funciones, cálculos matemáticos, etc. Si las expresiones son false, 0, null, undefined, entre otros, no se verán.

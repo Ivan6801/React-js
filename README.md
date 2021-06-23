@@ -45,3 +45,7 @@ En JSX se utilizan las llaves para introducir variables o expresiones de Javascr
 
 Las expresiones pueden ser llamadas a otras funciones, cálculos matemáticos, etc. Si las expresiones son false, 0, null, undefined, entre otros, no se verán.
 
+![jax-datos-name](https://user-images.githubusercontent.com/60527338/123018127-da809080-d382-11eb-95d6-4becb496d5b1.jpg)
+![number-datos](https://user-images.githubusercontent.com/60527338/123018145-e0767180-d382-11eb-9ce5-6f735c8ebfab.jpg)
+
+

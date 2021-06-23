@@ -1,4 +1,4 @@
-![react-galaxia](https://user-images.githubusercontent.com/60527338/123009222-288c9880-d371-11eb-8249-d2633b1b07de.png)
+![Mesa de trabajo 1-8](https://user-images.githubusercontent.com/60527338/123014682-9e95fd00-d37b-11eb-968d-f6cdd0b2557d.png)
 # React-js 
 Hola soy Ivan Gonzalez :) Una biblioteca de JavaScript para crear interfaces de usuario 🚀 (pero, son sólo para ti 🤫).
 

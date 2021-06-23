@@ -37,9 +37,10 @@ JSX tiene su alternativa que es **React.createElement** pero es preferible JSX p
 Ejemplo:
 
 ```bash
-React.createElement(‘a’, { href: ‘https://platzi.com’ }, ‘Ir a Platzi’);
+React.createElement(‘a’, { href: ‘https://es.reactjs.org/’, target: '_blank'  }, ‘Ir a React.js’);
 ```
 
 En JSX se utilizan las llaves para introducir variables o expresiones de Javascript. Lo que sea que esté adentro se va a evaluar y su resultado se mostrará en pantalla.
 
 Las expresiones pueden ser llamadas a otras funciones, cálculos matemáticos, etc. Si las expresiones son false, 0, null, undefined, entre otros, no se verán.
+![href](https://user-images.githubusercontent.com/60527338/123017551-aa84bd80-d381-11eb-8fe5-433c78e346ef.jpg)
